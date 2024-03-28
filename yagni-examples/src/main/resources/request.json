@@ -1,0 +1,14 @@
+{
+  "name": "Ma petite entreprise",
+  "productRange": "PREMIUM",
+  "owner": 1,
+  "admin": {
+    "name": "Michael Scott",
+    "mail": "michael.scott@praxedo.com",
+    "phone": "0123456789"
+  },
+  "country": "FR",
+  "availableLanguages": ["fr", "en"],
+  "defaultLanguage": "fr",
+  "timezone": "UTC+1"
+}
